@@ -1,0 +1,12 @@
+[submodule "TP1"]
+	path = TP1
+	url = https://github.com/Med-Fedi-Adel/TP1Dotnet.git
+[submodule "TP2"]
+	path = TP2
+	url = https://github.com/Med-Fedi-Adel/TP2Dotnet.git
+[submodule "TP3"]
+	path = TP3
+	url = https://github.com/Med-Fedi-Adel/TP3Dotnet.git
+[submodule "TP4"]
+	path = TP4
+	url = https://github.com/Med-Fedi-Adel/TP4Dotnet.git
