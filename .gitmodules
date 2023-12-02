@@ -7,6 +7,6 @@
 [submodule "TP3"]
 	path = TP3
 	url = https://github.com/Med-Fedi-Adel/TP3Dotnet.git
-[submodule "TP4"]
-	path = TP4
-	url = https://github.com/Med-Fedi-Adel/TP4Dotnet.git
+[submodule "TP44"]
+	path = TP44
+	url = https://github.com/Med-Fedi-Adel/TP4.NET.git
